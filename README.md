@@ -8,8 +8,3 @@ with a track record of project completion and a commitment to advancing technolo
   
 -  My interests lie in leveraging technology to address societal challenges and drive positive change. Whether it's through
    developing AI solutions or advancing STEM education, I'm dedicated to making a meaningful impact.
-
-<!---
-OrkaK/OrkaK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
